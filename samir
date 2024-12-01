@@ -1,0 +1,13 @@
+[
+  {
+    "run": "21209522-2", 
+    "nombre": "Samir", 
+    "apellido": "Goede", 
+    "direccion": "Inacap", 
+    "fono": 984608577, 
+    "correo":"samirgoede35@gmail.com", 
+    "montoCredito": 90000000, 
+    "deuda":1111111, 
+    "tipo": 65
+  } 
+]
