@@ -147,20 +147,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ├── main.py                     # Punto de entrada principal para ejecutar el programa
 └── README.md                   # Descripción del proyecto y cómo ejecutarlo
 
-
-> [!TIP]
-> Construido modularmente con paradigma OOB Python.
-
-> [!IMPORTANT]  
-> No esta terminado aun, falta base de datos
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Este proyecto tiene la siguiente estructura de directorios:
-
-
 ```
 ├── empresa/
 │   ├── __init__.py             # Indica que es un paquete Python
